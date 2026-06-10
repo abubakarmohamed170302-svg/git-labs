@@ -1,1 +1,2 @@
+hotfix config for prod
 hotfix applied
